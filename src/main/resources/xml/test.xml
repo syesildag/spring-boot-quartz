@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:EchoElement xmlns:tns="http://www.serkan.com/test"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.serkan.com/test ../xsd/test.xsd ">
+   <tns:message>Serkan YESILDAG</tns:message>
+   <tns:nbCharacters>15</tns:nbCharacters>
+</tns:EchoElement>
